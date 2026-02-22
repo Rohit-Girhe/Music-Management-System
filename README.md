@@ -48,7 +48,7 @@ The project answers critical business questions through SQL queries found in `ta
 ## 🚀 How to Run
 1.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/your-username/music-store-management.git](https://github.com/your-username/music-store-management.git)
+    git clone [https://github.com/Rohit-Girhe/music-store-management.git](https://github.com/Rohit-Girhe/music-store-management.git)
     ```
 2.  **Set Up the Database**:
     - Open your SQL tool (e.g., MySQL Workbench).
